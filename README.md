@@ -1,7 +1,7 @@
 # Homelab
 Personal network lab
 
-Goal: “Personal penetration testing lab for learning and applying CompTIA PenTest+ objectives.”
+Goal: “Personal penetration testing lab for learning.”
 
 Scope disclaimer: “All targets are owned and isolated in a private network for legal testing only.”
 
